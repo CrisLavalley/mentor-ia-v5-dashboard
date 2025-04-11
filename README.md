@@ -34,6 +34,8 @@ npm run dev
 
 ---
 
+```bash
+
 ## 🧑‍💻 Autor
 
 Hecho con ❤️ por Cristhianne De León.
