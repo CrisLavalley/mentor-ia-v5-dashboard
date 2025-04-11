@@ -34,5 +34,6 @@ npm run dev
 
 ---
 
-🧑‍💻 Autor
+## 🧑‍💻 Autor
+
 Hecho con ❤️ por Cristhianne De León.
